@@ -30,7 +30,7 @@ SaudiCitiesWeather.csv
 -  Interactive Folium map with weather overlays
 -  Summary statistics and trend filtering
 -  Sliders for user-defined ideal weather (temperature/humidity)
--  Logo branding and polished layout
+-  Logo branding and polished layout.
 
 ## 🧪 Requirements
 
